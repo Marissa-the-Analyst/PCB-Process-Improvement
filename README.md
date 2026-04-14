@@ -4,6 +4,9 @@ My final SNHU project explores the fictional problem that many businesses would 
 ### The Scenario ###
 There has been an unacceptable rise in welding defects on the electronic boards associated with Thru-Hole placement and soldering from the Manual Finish area. These defects fail industry standard acceptability requirements, and the associated cost of rectifying the defects post-production is not sustainable. To bring production within standard and meet production goals, a 20% reduction in defects and a 20% capacity increase are necessary. <br>
 
+<img width="1122" height="649" alt="image" src="https://github.com/user-attachments/assets/73afe1a5-0209-4ad5-a973-3d77f4fa94cb" />
+
+
 ### Data Source ### 
 This dataset was provided by the school but it should be like the data I used in this [ANOVA Test Comparison](https://www.kaggle.com/code/marissan/dat-475-anova-comparison).<br>
 Here's a sample below:
